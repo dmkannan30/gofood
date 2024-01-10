@@ -1,0 +1,8 @@
+#carousel {
+    max-height: 530px;
+}
+
+.card {
+    box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 0.4);
+    transition: 0.3s;
+}
